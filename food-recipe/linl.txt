@@ -1,0 +1,4 @@
+https://developer.edamam.com/
+
+
+https://developer.edamam.com/edamam-recipe-api
